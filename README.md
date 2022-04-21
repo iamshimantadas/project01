@@ -37,5 +37,5 @@ Technologies used -
 frontend  - html,css,js,bootstrap
 backend - php,mysql
 server - apache
-code editor - vs code , plartform test - linux(kubuntu)
+code editor - vs code , plartform test - windows 10 , ubuntu 
 ***************************************************************
