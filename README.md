@@ -1,4 +1,4 @@
-# gym website
+# Gym Management System 
 Hi , it's me shimanta das. I am the devloper of this project . This project specially based on GYM website &amp; GYM management syetem.  
 Features - 
 1. visitor's can visit website 
